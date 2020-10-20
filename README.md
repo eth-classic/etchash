@@ -5,15 +5,15 @@ this repository contains an overview of the specification, and tries to point to
 
 ### specification
 
-`etchash` was first brought up and specified by luke williams (**[@iquidus](https://github.com/iquidus)**) in september 2020. the full specifcation can be found in [ecip-1099: calibrate epoch duration](https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip-1099.md). 
+`etchash` was first brought up and specified by luke williams (**[@iquidus](https://github.com/iquidus)**) in september 2020. the full specifcation can be found in [ecip-1099: calibrate epoch duration](https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip-1099.md). the idea is to calibrate the epoch length used in dag calculations, effectively doubling epoch durations and therefore reducing the dag size significantly and slowing down dag growth drastically.
 
 it was used to replace the old specification [ecip-1043: fixed dag limit restriction](https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip-1043.md) published by cody burns (**[@realcodywburns](https://github.com/realcodywburns)**) and wolf spraul (**[@wolf-linzhi](https://github.com/wolf-linzhi)**) in april 2018.
 
-additional `etchash` test cases can be found here: [ecip-1099-data](https://github.com/iquidus/ecip-1099-data)
+additional `etchash` test cases can be found here: [ecip-1099-data](https://github.com/iquidus/ecip-1099-data).
 
 ### networks powered by etchash
 
-[ethereum classic](https://ethereumclassic.org) transitions from `ethash` to `etchash` on block `11_700_000` (eth/64 forkid `0xdb63a1ca`) which marks the epoch boundary `390 --> 195` according to the specification. the estimated actiation date is expected to happen around december 2nd, 2020.
+[ethereum classic](https://ethereumclassic.org) transitions from `ethash` to `etchash` on block `11_700_000` (eth/64 forkid `0xdb63a1ca`) which marks the epoch boundary `390 --> 195` according to the specification. the estimated activation date is expected to happen around december 2nd, 2020.
 * classic status dashboard: https://classic.dash.fault.dev/
 * classic fork monitoring: https://classic.fork.fault.dev/
 * classic block explorer: https://blockscout.com/etc/mainnet/
