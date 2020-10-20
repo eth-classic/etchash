@@ -9,6 +9,8 @@ this repository contains an overview of the specification, and tries to point to
 
 it was used to replace the old specification [ecip-1043: fixed dag limit restriction](https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip-1043.md) published by cody burns (**[@realcodywburns](https://github.com/realcodywburns)**) and wolf spraul (**[@wolf-linzhi](https://github.com/wolf-linzhi)**) in april 2018.
 
+additional `etchash` test cases can be found here: [ecip-1099-data](https://github.com/iquidus/ecip-1099-data)
+
 ### networks powered by etchash
 
 [ethereum classic](https://ethereumclassic.org) transitions from `ethash` to `etchash` on block `11_700_000` (eth/64 forkid `0xdb63a1ca`) which marks the epoch boundary `390 --> 195` according to the specification. the estimated actiation date is expected to happen around december 2nd, 2020.
@@ -27,12 +29,12 @@ the hard-fork activating `etchash` on the ethereum classic networks is code-name
 
 ### clients implementing etchash
 
-core geth `v1.11.16` (release pending)
+core geth `v1.11.16` (:clock11: release pending)
 * github https://github.com/etclabscore/core-geth
 * pull-requests [#186](https://github.com/etclabscore/core-geth/pull/186) [#209](https://github.com/etclabscore/core-geth/pull/209) [#212](https://github.com/etclabscore/core-geth/pull/212)
 * config name `ECIP1099FBlock`
 
-hyperledger besu `20.10.0-RC2` (release pending)
+hyperledger besu `20.10.0-RC2` (:clock11: release pending)
 * github https://github.com/hyperledger/besu
 * pull-requests [1421](https://github.com/hyperledger/besu/pull/1421) [1462](https://github.com/hyperledger/besu/pull/1462)
 * config name `thanosBlock`
@@ -41,6 +43,11 @@ hyperledger besu `20.10.0-RC2` (release pending)
 
 _TBA_
 
+* _(:hourglass_flowing_sand: WIP) https://github.com/iquidus/ethminer/ (:clock11: unpublished)_
+* _(:hourglass_flowing_sand: WIP) https://github.com/Lolliedieb/lolMiner-releases (:clock11: unpublished, :warning: proprietary)_
+
 ### mining pool software support
 
 _TBA_
+
+* _(:hourglass_flowing_sand: WIP) https://github.com/etclabscore/open-etc-pool/ (:gear: branch `dev/etc`)_
