@@ -29,12 +29,12 @@ the hard-fork activating `etchash` on the ethereum classic networks is code-name
 
 ### clients implementing etchash
 
-core geth `v1.11.16` (:clock11: release pending)
+core geth [`v1.11.16`](https://github.com/etclabscore/core-geth/releases/tag/v1.11.16) or later
 * github https://github.com/etclabscore/core-geth
 * pull-requests [#186](https://github.com/etclabscore/core-geth/pull/186) [#209](https://github.com/etclabscore/core-geth/pull/209) [#212](https://github.com/etclabscore/core-geth/pull/212)
 * config name `ECIP1099FBlock`
 
-hyperledger besu `20.10.0-RC2` (:clock11: release pending)
+hyperledger besu [`20.10.0-RC2`](https://github.com/hyperledger/besu/releases/tag/20.10.0-RC2) or later
 * github https://github.com/hyperledger/besu
 * pull-requests [#1421](https://github.com/hyperledger/besu/pull/1421) [#1462](https://github.com/hyperledger/besu/pull/1462)
 * config name `thanosBlock`
