@@ -45,6 +45,7 @@ _TBA_
 
 * _(:hourglass_flowing_sand: WIP) https://github.com/iquidus/ethminer/ (:clock11: unpublished)_
 * _(:hourglass_flowing_sand: WIP) https://github.com/Lolliedieb/lolMiner-releases (:clock11: unpublished, :warning: proprietary)_
+* _(:hourglass_flowing_sand: WIP) https://github.com/nanopool/nanominer/releases (:clock11: unpublished, :warning: proprietary)_
 
 ### mining pool software support
 
