@@ -41,11 +41,14 @@ hyperledger besu [`20.10.0-RC2`](https://github.com/hyperledger/besu/releases/ta
 
 ### mining software support
 
+_Announced_
+
+* Nanominer v1.12.0 https://github.com/nanopool/nanominer/releases/tag/v1.12.0
+* lolMiner v.1.12 https://github.com/Lolliedieb/lolMiner-releases/releases/tag/1.12
+
 _TBA_
 
 * _(:hourglass_flowing_sand: WIP) https://github.com/iquidus/ethminer/ (:clock11: unpublished)_
-* _(:hourglass_flowing_sand: WIP) https://github.com/Lolliedieb/lolMiner-releases (:clock11: unpublished, :warning: proprietary)_
-* _(:hourglass_flowing_sand: WIP) https://github.com/nanopool/nanominer/releases (:clock11: unpublished, :warning: proprietary)_
 
 ### mining pool software support
 
