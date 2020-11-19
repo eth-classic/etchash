@@ -39,6 +39,9 @@ hyperledger besu [`20.10.0-RC2`](https://github.com/hyperledger/besu/releases/ta
 * pull-requests [#1421](https://github.com/hyperledger/besu/pull/1421) [#1462](https://github.com/hyperledger/besu/pull/1462)
 * config name `thanosBlock`
 
+stand-alone go-language etchash implemenation
+* https://github.com/etclabscore/go-etchash
+
 ### mining software support
 
 open source:
@@ -54,4 +57,9 @@ proprietary:
 
 ### mining pool software support
 
-* https://github.com/etclabscore/open-etc-pool/
+* etc-first mining pool: https://github.com/etclabscore/open-etc-pool
+* stand-alone etchash library: https://github.com/etclabscore/go-etchash
+
+### public testing pools for etchash
+
+_TBA_
