@@ -44,6 +44,8 @@ stand-alone go-language etchash implemenation
 
 ### mining software support
 
+are you a miner? check out BBT's youtube intro [Ethereum Classic Hard Fork - Thanos - Important for Miners](https://www.youtube.com/watch?v=Yo1zLzhYzv8).
+
 open source:
 * _:hourglass_flowing_sand: ethminer/etcminer (:clock11: unpublished)_
 
