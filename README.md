@@ -41,9 +41,16 @@ hyperledger besu [`20.10.0-RC2`](https://github.com/hyperledger/besu/releases/ta
 
 ### mining software support
 
-* Nanominer [v1.12.0](https://github.com/nanopool/nanominer/releases/tag/v1.12.0)
+open source:
+* _:hourglass_flowing_sand: ethminer/etcminer (:clock11: unpublished)_
+
+proprietary:
+* nanominer [v1.12.0](https://github.com/nanopool/nanominer/releases/tag/v1.12.0)
 * lolMiner [1.12](https://github.com/Lolliedieb/lolMiner-releases/releases/tag/1.12)
-* _(:hourglass_flowing_sand: WIP) https://github.com/iquidus/ethminer/ (:clock11: unpublished)_
+* GMiner [2.30](https://github.com/develsoftware/GMinerRelease/releases/tag/2.30)
+* T-Rex [0.18.8](https://github.com/trexminer/T-Rex/releases/tag/0.18.8)
+* NBMiner [v33.4](https://github.com/NebuTech/NBMiner/releases/tag/v33.4)
+* _:hourglass_flowing_sand: PhoenixMiner 5.2 (:clock11: release pending)_
 
 ### mining pool software support
 
