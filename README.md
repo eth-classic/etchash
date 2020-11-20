@@ -29,7 +29,7 @@ the hard-fork activating `etchash` on the ethereum classic networks is code-name
 
 ### clients implementing etchash
 
-core geth [`v1.11.16`](https://github.com/etclabscore/core-geth/releases/tag/v1.11.16) or later
+core geth [`v1.11.18`](https://github.com/etclabscore/core-geth/releases/tag/v1.11.18) or later
 * github https://github.com/etclabscore/core-geth
 * pull-requests [#186](https://github.com/etclabscore/core-geth/pull/186) [#209](https://github.com/etclabscore/core-geth/pull/209) [#212](https://github.com/etclabscore/core-geth/pull/212)
 * config name `ECIP1099FBlock`
