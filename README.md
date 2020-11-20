@@ -64,4 +64,13 @@ proprietary:
 
 ### public testing pools for etchash
 
-_TBA_
+Mordor testnet: https://mordor.pool.fault.dev/
+
+```
+API: mordor.pool.fault.dev:8080 (or /api)
+Proxy: mordor.pool.fault.dev:8888
+Stratum: mordor.pool.fault.dev:8008
+Stratum: mordor.pool.fault.dev:8088 (Nicehash)
+```
+
+Classic mainnet: _TBA_
