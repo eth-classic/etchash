@@ -55,6 +55,7 @@ proprietary:
 * GMiner [2.30](https://github.com/develsoftware/GMinerRelease/releases/tag/2.30)
 * T-Rex [0.18.8](https://github.com/trexminer/T-Rex/releases/tag/0.18.8)
 * NBMiner [v33.4](https://github.com/NebuTech/NBMiner/releases/tag/v33.4)
+* SRBMiner-Multi [0.5.6](https://github.com/doktor83/SRBMiner-Multi/releases/tag/0.5.6)
 * _:hourglass_flowing_sand: PhoenixMiner 5.2 (:clock11: release pending)_
 
 ### mining pool software support
