@@ -22,7 +22,7 @@ it was used to replace the old specification [ecip-1043: fixed dag limit restric
 * classic block explorer: https://blockscout.com/etc/mainnet/
 * classic light explorer: https://expedition.dev/?network=mainnet
 
-the [mordor classic testnet](https://github.com/eth-classic/mordor) already transitioned from `ethash` to `etchash` on block `2_520_000` (eth/64 forkid `0x66b5c286`) which marked the epoch boundary `82 --> 41` on october 18th, 2020.
+the [mordor classic testnet](https://github.com/eth-classic/mordor) already transitioned from `ethash` to `etchash` on block `2_520_000` (eth/64 forkid `0x66b5c286`) which marked the epoch boundary `84 --> 42` on october 18th, 2020.
 * mordor status dashboard: https://mordor.dash.fault.dev/
 * mordor fork monitoring: https://mordor.fork.fault.dev/
 * mordor block explorer: https://blockscout.com/etc/mordor/
