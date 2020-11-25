@@ -59,6 +59,7 @@ proprietary:
 * T-Rex [0.18.8](https://github.com/trexminer/T-Rex/releases/tag/0.18.8) or later
 * NBMiner [v33.4](https://github.com/NebuTech/NBMiner/releases/tag/v33.4) or later
 * SRBMiner-Multi [0.5.6](https://github.com/doktor83/SRBMiner-Multi/releases/tag/0.5.6) or later
+* Team Red Miner [v0.7.18](https://github.com/todxx/teamredminer/releases/tag/0.7.18) or later
 * _:hourglass_flowing_sand: PhoenixMiner 5.2 (:clock11: release pending)_
 
 ### Mining Pool Software Support
