@@ -69,7 +69,7 @@ proprietary:
 
 ### Public Testing Pools for EtcHash
 
-Mordor testnet: https://mordor.pool.fault.dev/
+Mordor testnet: https://mordor.pool.fault.dev/ :warning: No payouts!
 
 ```
 API: mordor.pool.fault.dev:8080 (or /api)
@@ -78,4 +78,11 @@ Stratum: mordor.pool.fault.dev:8008
 Stratum: mordor.pool.fault.dev:8088 (Nicehash)
 ```
 
-Classic mainnet: _TBA_
+Classic mainnet: https://classic.pool.fault.dev/ :warning: No payouts!
+
+```
+API: classic.pool.fault.dev:8080 (or /api)
+Proxy: classic.pool.fault.dev:8888
+Stratum: classic.pool.fault.dev:8008
+Stratum: classic.pool.fault.dev:8088 (Nicehash)
+```
